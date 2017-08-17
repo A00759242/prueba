@@ -4,6 +4,6 @@ void main()
 printf ("Hola mundo");
 int i=0;
 
-for;
+for (i=0, i=200;
 
 }
